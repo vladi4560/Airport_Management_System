@@ -1,0 +1,4 @@
+C:\Users\Omsan\source\repos\C - Project IV\Debug\C - Project IV.exe
+C:\Users\Omsan\source\repos\C - Project IV\Debug\C - Project IV.pdb
+C:\Users\vladk\source\repos\C - Project IV\Debug\C - Project IV.exe
+C:\Users\vladk\source\repos\C - Project IV\Debug\C - Project IV.pdb
